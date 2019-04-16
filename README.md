@@ -1,4 +1,4 @@
-# otonomsaksi uygulaması
+# Otonom saksi uygulaması
 
 # Burak Berkay Temel-170215011
 # Buğrahan Şentürk-170215037
