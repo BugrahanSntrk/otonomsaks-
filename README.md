@@ -3,7 +3,7 @@
 # Burak Berkay Temel-170215011
 # Buğrahan Şentürk-170215037
 
-Nem sensörü, ışık sensörü vb. sistemler ile otonon bir saksı sensörü oluşturulmuştur. 
+Nem sensörü, ışık sensörü vb. sistemler ile otonom bir saksı sensörü oluşturulmuştur. 
 
 DarkSky API
 https://darksky.net/dev/docs
