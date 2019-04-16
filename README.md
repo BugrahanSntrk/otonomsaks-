@@ -1,5 +1,7 @@
 # otonomsaksi uygulaması
 
+# Burak Berkay Temel-170215011
+# Buğrahan Şentürk-170215037
 
 Nem sensörü, ışık sensörü vb. sistemler ile otonon bir saksı sensörü oluşturulmuştur. 
 
